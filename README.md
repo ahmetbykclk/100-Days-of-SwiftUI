@@ -154,6 +154,12 @@ The "100 Days of SwiftUI" challenge by [Paul Hudson](https://x.com/twostraws) pr
 - **Format**: Free online course with daily lessons
 - **Duration**: 100 days of progressive learning
 
+## 🏆 Course Completion Certificate
+
+Successfully completed the "100 Days of SwiftUI" course by Paul Hudson from Hacking with Swift!
+
+<img src="certificate.jpg" width="600" alt="100 Days of SwiftUI Completion Certificate">
+
 ## 👨‍💻 Author
 
 **Ahmet Büyükçelik**
